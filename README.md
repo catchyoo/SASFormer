@@ -1,5 +1,7 @@
 # SASFormer : A Decoding Scheme With Successive Aggregation of Multi-Level Features For Light-Weight Semantic Segmentation (ICIP 2024)
 
+### 📝[Paper](https://ieeexplore.ieee.org/document/10647675)
+
 > #### Jiwon Yoo<sup>1</sup>, Jangwon Lee<sup>1</sup>, Gyeonghwan Kim<sup>1&dagger;</sup>
 > <sup>&dagger;</sup>Correspondence
 
